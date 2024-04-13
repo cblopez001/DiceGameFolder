@@ -3,11 +3,12 @@ body{
 }
 
 header{
-    position:relative;
-    top:10%;
-    left:50%;
-    font-family: fantasy,arial;
-    font-size: 45%;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    font-family: fantasy, arial;
+    font-size: 200%;
+    text-align: center;
     color: aliceblue;
 }
 div{
@@ -26,6 +27,8 @@ p{
     font-family: fantasy;
     font-size: larger;
     font-style: normal;
+    width: 100%;
+    height: 100%;
 }
 .results{
     position: relative;
